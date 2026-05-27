@@ -11,7 +11,9 @@ Fresh finds, updated regularly. Vintage items are one of a kind — if you see s
 ## May 2026
 
 ### Vintage Coke glass
+
 ![Coke glass](preciousfinds.ca:images/Coke glass warm.jpg)
+
 - Warm tones 
 
 <!-- Add new finds here as you list them. Suggested format:
