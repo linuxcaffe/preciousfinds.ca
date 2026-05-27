@@ -2,8 +2,6 @@
 title: Precious Finds
 ---
 
-# Precious Finds
-
 *Vintage treasures, thoughtfully curated.*
 
 <!-- A sentence or two about what makes Precious Finds special — your eye, your values. -->
