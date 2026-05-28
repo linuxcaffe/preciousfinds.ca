@@ -3,6 +3,7 @@ title: {{title}}
 date: {{date}}
 status: available
 price:
+image:
 platform:
 listing:
 condition:
