@@ -1,6 +1,8 @@
 ---
 title: Precious Finds
 ---
+<!-- [Precious Finds svg banner ] -->
+<!-- (nav bar) Clothes - Bags - Footware - Dishware - Jewelry - Accessories -->
 
 *Vintage treasures, thoughtfully curated.*
 
