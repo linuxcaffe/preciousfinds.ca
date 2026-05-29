@@ -12,7 +12,7 @@ Fresh finds, updated regularly. Vintage items are one of a kind — if you see s
 
 ### Vintage Coke glass
 
-![Coke glass](preciousfinds.ca:images/Cokeglass.jpg)
+![Coke glass](preciousfinds.ca:images/ABC002.jpg)
 
 - Warm tones 
 
