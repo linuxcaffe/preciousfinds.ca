@@ -2,6 +2,9 @@
 title: {{title}}
 date: {{date}}
 status: available
+category:
+caption:
+description:
 price:
 image:
 platform:
@@ -12,4 +15,3 @@ tags: []
 
 ![{{title}}](../images/filename.jpg)
 
-<!-- Description: condition, era, what makes it special. 1–3 sentences. -->
