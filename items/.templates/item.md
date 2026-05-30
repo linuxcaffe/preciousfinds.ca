@@ -6,7 +6,7 @@ category:
 caption:
 description:
 price:
-image:
+image: ../images/
 platform:
 listing:
 condition:
