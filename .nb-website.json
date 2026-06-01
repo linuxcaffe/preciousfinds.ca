@@ -2,5 +2,5 @@
   "name": "preciousfinds.ca",
   "url": "https://linuxcaffe.github.io/preciousfinds.ca-site",
   "quartz_path": "~/dev/quartz-preciousfinds.ca",
-  "deploy_command": "npx quartz sync"
+  "deploy_command": "git -C ~/.nb/preciousfinds.ca push origin HEAD:preciousfinds.ca && git push origin main"
 }
