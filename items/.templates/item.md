@@ -6,12 +6,10 @@ category:
 caption:
 description:
 price:
-image: ../images/
+qtty:
+image:
 platform:
 listing:
 condition:
 tags: []
 ---
-
-![{{title}}](../images/filename.jpg)
-
