@@ -14,6 +14,8 @@ link to [[preciousfinds.ca:2]] (works in nb-web, not in nb-website)
 
 link to [Shop](./shop.md) (works in nb-website, does not work in nb-web)
 
+link to [Random Page](./20260601225629_random.md)
+
 ```
 this ia s fenced codeblock
 don't
