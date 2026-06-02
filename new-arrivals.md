@@ -12,6 +12,8 @@ footnote: Follow along on [eBay](https://ebay.ca/usr/YOURUSERNAME) or [Etsy](htt
 
 link to [[preciousfinds.ca:2]]
 
+link to [Shop](preciousfinds.ca:2)
+
 ```
 this ia s fenced codeblock
 don't
