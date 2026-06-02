@@ -8,6 +8,8 @@ footnote: Follow along on [eBay](https://ebay.ca/usr/YOURUSERNAME) or [Etsy](htt
 - list 1
 - list thing 2
 
+### link
+
 link to [[preciousfinds.ca:2]]
 
 ```
