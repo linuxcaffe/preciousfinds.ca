@@ -12,7 +12,7 @@ footnote: Follow along on [eBay](https://ebay.ca/usr/YOURUSERNAME) or [Etsy](htt
 
 link to [[preciousfinds.ca:2]]
 
-link to [Shop.md]
+link to [Shop](shop.md)
 
 ```
 this ia s fenced codeblock
