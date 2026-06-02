@@ -11,5 +11,8 @@ image:
 platform:
 listing:
 condition:
+size:
+shipping:
 tags: []
+SEO:
 ---
