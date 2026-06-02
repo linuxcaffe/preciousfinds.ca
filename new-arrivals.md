@@ -10,9 +10,9 @@ footnote: Follow along on [eBay](https://ebay.ca/usr/YOURUSERNAME) or [Etsy](htt
 
 ### link
 
-link to [[preciousfinds.ca:2]]
+link to [[preciousfinds.ca:2]] (works in nb-web)
 
-link to [Shop](./shop.md)
+link to [Shop](./shop.md) (does not work)
 
 ```
 this ia s fenced codeblock
