@@ -1,18 +1,17 @@
 ---
 title: {{title}}
-date: {{date}}
-status: available
 category:
 caption:
 description:
+qtty: 1
 price:
-qtty:
+date: {{date}}
+size:
+condition:
+shipping:
+status: available
 image:
 platform:
 listing:
-condition:
-size:
-shipping:
 tags: []
-SEO:
 ---
