@@ -11,9 +11,9 @@ SEO:
 
 ### link
 
-link to [[preciousfinds.ca:2]] (works in nb-web, not in nb-website)
+link to [[Shop]] (works in nb-web, not in nb-website) ?
 
-link to [Shop](./shop.md) (works in nb-website, does not work in nb-web)
+link to [[Shop]] (works in nb-website, does not work in nb-web) ?
 
 ```
 this ia s fenced codeblock
