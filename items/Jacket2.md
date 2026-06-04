@@ -13,5 +13,5 @@ status: available
 image: Jacket2.webp
 platform: Etsy
 listing:
-tags: [jacket, bomber, vintage]
+tags: [jacket, bomber, vintage, new]
 ---
