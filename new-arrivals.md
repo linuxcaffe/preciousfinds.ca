@@ -15,6 +15,8 @@ link to [[Shop]] (works in nb-web, not in nb-website) ?
 
 link to [[Shop]] (works in nb-website, does not work in nb-web) ?
 
+[[A random New Page!]]
+
 ```
 this ia s fenced codeblock
 don't
