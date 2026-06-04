@@ -3,7 +3,8 @@ tagline: Vintage treasures, curated with love
 description: Precious Finds — hand-picked vintage treasures from Ontario, Canada. Clothing, glassware, ceramics, and more.
 SEO: vintage shop canada, vintage clothing, vintage glassware, hamilton ontario, precious finds
 footer: |
-  [[Shop]]  -  [[Precious Finds]]  -  [[About]]
+  [Shop](shop)  -  [Home](/)  -  [About](about)
+  Proudly Canadian, shipping across Canada
   "© 2026 Precious Finds"
 ---
 
