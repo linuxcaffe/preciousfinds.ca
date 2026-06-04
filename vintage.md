@@ -6,3 +6,11 @@ tags: []
 with_tags: [vintage]
 SEO: vintage, antique
 ---
+---
+title: Vintage
+caption:
+footnote:
+tags: []
+SEO:
+---
+
