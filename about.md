@@ -5,6 +5,8 @@ caption:
 
 # About Precious Finds
 
+[[#What I look for|Mission]]
+
 <!-- Replace this with your own story. A few genuine paragraphs goes a long way. -->
 
 Hi, I'm Lena. I've always had an eye for beautiful old things — the kind that turn up at estate sales and thrift shops, waiting for someone to recognize what they are.
