@@ -1,9 +1,7 @@
 ---
-title: About
+title: About Precious Finds
 caption: 
 ---
-
-# About Precious Finds
 
 [[#What I look for|Mission]]
 
