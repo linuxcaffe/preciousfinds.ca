@@ -1,5 +1,6 @@
 ---
 title: Shop
+caption: 
 ---
 
 You'll find the full inventory on the platforms below. Every listing includes photos, condition notes, and measurements where relevant.
