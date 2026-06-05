@@ -3,7 +3,7 @@ title: About Precious Finds
 caption: 
 ---
 
-[[#What I look for|Mission]]
+[[#What I look for|Mission]]  -  [[#Shipping & care|Shipping]]  -  [[Returns]]
 
 <!-- Replace this with your own story. A few genuine paragraphs goes a long way. -->
 
