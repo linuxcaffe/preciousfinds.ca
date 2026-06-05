@@ -1,5 +1,6 @@
 ---
 title: About
+caption: 
 ---
 
 # About Precious Finds
