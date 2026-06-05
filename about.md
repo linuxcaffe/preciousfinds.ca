@@ -3,7 +3,7 @@ title: About Precious Finds
 caption: 
 ---
 
-[[#What I look for|Mission]]  -  [[#Shipping & care|Shipping]]  -  [[Returns]]
+[[#What I look for|Mission]]  -  [[#Shipping & care|Shipping]]  -  [[#Return policy|Returns]]
 
 <!-- Replace this with your own story. A few genuine paragraphs goes a long way. -->
 
@@ -29,6 +29,10 @@ Precious Finds is how I share what I discover. Every item I list has been inspec
 Every order is packed carefully. I use appropriate materials for fragile pieces and always include tracking. Combined shipping is available — message me before purchasing and I'll adjust the invoice.
 
 ---
+
+## Return policy
+
+Return policy is..
 
 ## Get in touch
 
