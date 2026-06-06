@@ -10,3 +10,5 @@ Link to [[Shop]]
 [[A random New Page!]]
 
 Test!
+
+and another!
