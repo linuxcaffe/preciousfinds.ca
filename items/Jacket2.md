@@ -10,7 +10,7 @@ size: mens medium
 condition: slightly scuffed at the elbows
 shipping: Parcel Post
 status: available
-image: Jacket2.webp
+image: Jacket2.jpg
 platform: Etsy
 listing:
 tags: [jacket, bomber, vintage, new]
