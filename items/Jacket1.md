@@ -10,7 +10,7 @@ size: Mens medium
 condition: gently worn, no damage
 shipping: parcel post
 status: available
-image: Jacket1.jpg
+image: ../images/Jacket1.jpg
 platform: Etsy
 listing:
 tags: [jacket, leather, vintage]
