@@ -6,4 +6,5 @@ with_tags: [new]
 SEO:
 ---
 Link to [[Shop]] 
+
 [[A random New Page!]]
