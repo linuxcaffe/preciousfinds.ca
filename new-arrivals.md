@@ -5,17 +5,7 @@ footnote: Follow along on [eBay](https://ebay.ca/usr/YOURUSERNAME) or [Etsy](htt
 with_tags: [new]
 SEO:
 ---
-
-## some test markdown
-- list 1
-- list thing 2
-
-### link
-
-link to [[Shop]] (works in nb-web, not in nb-website) ?
-
-link to [[Shop]] (works in nb-website, does not work in nb-web) ?
-
+Link to [[Shop]] 
 [[A random New Page!]]
 
 ```
