@@ -7,10 +7,3 @@ SEO:
 ---
 Link to [[Shop]] 
 [[A random New Page!]]
-
-```
-this ia s fenced codeblock
-don't
-format
-me
-```
