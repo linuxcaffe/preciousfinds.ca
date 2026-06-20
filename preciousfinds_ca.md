@@ -12,7 +12,7 @@ gallery: med .
 ~/.nb/preciousfinds.ca
 ```
 ```gallery
-small .
+thumb .
 ```
 ```config
 access: .
