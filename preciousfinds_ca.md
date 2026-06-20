@@ -4,7 +4,7 @@ tags: []
 SEO:
 type: dashboard
 access: admin
-# tests: 
+# checks: 
 ---
 # Precious Finds.ca  Notebook Dashboard
 ```nav
