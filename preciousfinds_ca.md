@@ -1,11 +1,11 @@
 ---
-footnote:
+footnote: 
 tags: []
-SEO:
+SEO: 
 type: dashboard
 access: admin
 # checks: 
-gallery: med .
+gallery: small .
 ---
 # Precious Finds.ca  Notebook Dashboard
 ```nav
