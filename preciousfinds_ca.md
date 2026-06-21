@@ -6,7 +6,7 @@ pinned: true
 date: 2026-06-21
 config: access:
 nav: preciousfinds.ca:
-gallery: small .
+gallery: thumb .
 ---
 # preciousfinds.ca
 
