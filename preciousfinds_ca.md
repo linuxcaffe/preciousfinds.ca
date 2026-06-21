@@ -7,7 +7,7 @@ date: 2026-06-21
 config: access:
 gallery: thumb .
 ---
-# preciousfinds.ca
+# preciousfinds.ca Dashboard
 
 {{nb: count preciousfinds.ca:}} notes · {{date: %A %B %d}}
 ```nav
