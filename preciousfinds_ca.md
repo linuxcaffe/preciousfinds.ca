@@ -7,9 +7,8 @@ type: dashboard
 access: admin
 # checks: 
 config: access:
-config: tree preciousfinds.ca
-gallery: thumb .
 nav: preciousfinds.ca
+gallery: thumb .
 ---
 # Precious Finds.ca  Notebook Dashboard
 ```config
