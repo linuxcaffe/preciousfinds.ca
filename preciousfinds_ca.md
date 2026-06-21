@@ -6,15 +6,10 @@ SEO:
 type: dashboard
 access: admin
 # checks: 
-gallery: small .
+gallery: thumb .
+nav: preciousfinds.ca
 ---
 # Precious Finds.ca  Notebook Dashboard
-```nav
-~/.nb/preciousfinds.ca
-```
-```gallery
-thumb .
-```
 ```config
 access: .
 ```
