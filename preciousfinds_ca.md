@@ -11,11 +11,5 @@ nav: preciousfinds.ca
 gallery: thumb .
 ---
 # Precious Finds.ca  Notebook Dashboard
-```config
-access: .
-```
-```config
-tree preciousfinds.ca:
-```
 
 Body
