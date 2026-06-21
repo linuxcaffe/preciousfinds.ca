@@ -6,6 +6,8 @@ SEO:
 type: dashboard
 access: admin
 # checks: 
+config: access:
+config: tree preciousfinds.ca
 gallery: thumb .
 nav: preciousfinds.ca
 ---
