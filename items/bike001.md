@@ -9,7 +9,7 @@ price: 1.00
 qtty: 1
 image: Bike001.jpg
 platform: other
-listing:
+listing: 
 condition: busted
-tags: [new]
+tags: [new,test]
 ---
