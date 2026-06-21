@@ -13,11 +13,6 @@ gallery: thumb .
 ```nav
 preciousfinds.ca:
 ```
-
-```front
-preciousfinds.ca: | Contents
-```
-
 ---
 
 ## Links
