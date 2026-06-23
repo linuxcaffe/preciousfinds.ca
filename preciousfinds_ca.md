@@ -4,7 +4,6 @@ draft: true
 access: admin
 pinned: true
 date: 2026-06-21
-config: tree preciousfinds.ca:
 gallery: thumb .
 ---
 # preciousfinds.ca Dashboard
