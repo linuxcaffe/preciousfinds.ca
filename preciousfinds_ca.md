@@ -2,6 +2,7 @@
 type: dashboard
 draft: true
 access: admin
+theme: groovy
 pinned: true
 date: 2026-06-21
 gallery: thumb .
