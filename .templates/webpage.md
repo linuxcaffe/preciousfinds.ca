@@ -5,3 +5,4 @@ footnote:
 tags: []
 SEO:
 ---
+{{title}}

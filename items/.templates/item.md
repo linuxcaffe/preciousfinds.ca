@@ -15,3 +15,4 @@ platform:
 listing:
 tags: []
 ---
+{{title}} item
