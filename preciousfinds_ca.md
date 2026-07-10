@@ -1,5 +1,6 @@
 ---
 type: dashboard
+title: Precious Finds Dashboard
 draft: true
 access: admin
 pinned: true
