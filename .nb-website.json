@@ -1,6 +1,6 @@
 {
   "name": "preciousfinds.ca",
-  "url": "https://linuxcaffe.github.io/preciousfinds.ca-quartz/",
-  "quartz_path": "~/dev/quartz-preciousfinds.ca-quartz",
+  "url": "https://linuxcaffe.github.io/preciousfinds.ca-site/",
+  "quartz_path": "~/dev/quartz-preciousfinds.ca",
   "deploy_command": "git -C ~/.nb/preciousfinds.ca push origin HEAD:preciousfinds.ca && git push origin main"
 }
