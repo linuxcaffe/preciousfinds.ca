@@ -1,5 +1,6 @@
 ---
 title: {{title}}
+type: item
 category:
 caption:
 description:
