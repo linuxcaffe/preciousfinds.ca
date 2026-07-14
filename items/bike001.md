@@ -1,5 +1,6 @@
 ---
 title: Sassy blue eBike
+type: item
 date: 2026-06-01
 status: sold
 category: bikes

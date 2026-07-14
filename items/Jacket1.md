@@ -1,5 +1,6 @@
 ---
 title: Danier classic jacket
+type: item
 category: clothing
 caption: buttery soft leather
 description: From the 1970s Groovy Jacket Collective
