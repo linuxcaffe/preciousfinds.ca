@@ -10,7 +10,7 @@ date: 2026-06-03
 size: mens medium
 condition: slightly scuffed at the elbows
 shipping: Parcel Post
-status: available
+status: sold
 image: jacket2.jpg
 platform: Etsy
 listing: 
