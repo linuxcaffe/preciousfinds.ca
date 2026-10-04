@@ -5,7 +5,7 @@ draft: true
 access: admin
 pinned: true
 date: 2026-06-30
-gallery: thunb .
+gallery: thumb .
 ---
 # preciousfinds.ca Dashboard
 
